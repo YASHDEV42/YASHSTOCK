@@ -276,10 +276,4 @@ Built by **YASHDEV42**.
 
 ---
 
-## 📄 License
-
-Add a license file (e.g., MIT) if you plan to distribute this project publicly.
-
----
-
 **YASHSTORE — a modern full-stack e-commerce experience. ✨**
